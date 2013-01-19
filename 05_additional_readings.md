@@ -1,10 +1,11 @@
-
 ###Additional Readings:
 
 The following list is a "recommended readings" list that I hope you take the time to explore.  It is a series of hyperlinks that will either lead you to something you will find useful for completing course assignments or, just simply, __interesting__.
 
 >###Useful Links
 
+>[Electronic Literature Organization](http://eliterature.org/about/)
+>
 >[Wordpress.com](http://en.wordpress.com/features/)
 >
 >[Daring Fireball](http://daringfireball.net/projects/markdown/syntax)

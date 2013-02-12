@@ -46,11 +46,11 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 
 >__Week 5__
 >
->Tuesday  --->  Feb. 12  __*A Narrative of the Life and Adventures of Venture, A Native of Africa*__  &  __[Video in the House of the Word: How e-Lit Intersects With Cinema](http://www.huffingtonpost.com/illya-szilak/mark-amerika-art-film-literature_b_2147288.html)__ 
->
->Thursday  --->  Feb. 14  __Film: Documentary on Venture Smith__ (We will watch this 20 min. film in class.
+>Tuesday  --->  Feb. 12  __*A Narrative of the Life and Adventures of Venture, A Native of Africa*__  & __Film: Documentary on Venture Smith__ (We will watch this 30 min. film in class).
 
-> * __[Fourth Blogpost Due by end of normal class period today]()__
+>
+>Thursday  --->  Feb. 14  Lecture on Venture Smith & __[Video in the House of the Word: How e-Lit Intersects With Cinema](http://www.huffingtonpost.com/illya-szilak/mark-amerika-art-film-literature_b_2147288.html)__ 
+> * __[Fourth Blogpost  on Venture Smith Due by noon on Friday, Feb. 15]()__
 
 ------------------------
 

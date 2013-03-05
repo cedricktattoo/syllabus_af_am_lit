@@ -178,12 +178,14 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 
 >__Week 8__ 
 >
->Tuesday  --->  Mar. 5  __Incidents in the Life of a Slave Girl__ (chapters 1-10)  &    __[The Death of the Novel: How E-Lit Revolutionizes Fiction ](http://www.huffingtonpost.com/illya-szilak/the-death-of-the-novel-ho_b_2080881.html?utm_hp_ref=tw)__
+>Tuesday  --->  Mar. 5      Discussion of "Born Digital" Assignment
 >
->Thursday  --->  Mar. 7  __Incidents in the Life of a Slave Girl__ (chapters 11-20)
+>Thursday  --->  Mar. 7     Organizing for Born Digital Assignment & __[The Death of the Novel: How E-Lit Revolutionizes Fiction ](http://www.huffingtonpost.com/illya-szilak/the-death-of-the-novel-ho_b_2080881.html?utm_hp_ref=tw)__
 >
+> EXAMPLE of a Born Digital Project from a previous semester: 
+>[iPad Version](https://dl.dropbox.com/u/16071837/Poems%20on%20Various%20Subjects%20%28Beta%29.ibooks) & [PDF Version](https://dl.dropbox.com/u/16071837/Poems%20on%20Various%20Subjects%20%28beta%29.pdf)
 
->* __[Seventh Blogpost Due by end of normal class period today]()__
+>* __[NO blog post due this week]()__
 
 ------------------------
 
@@ -198,11 +200,11 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 
 >__Week 10__
 >
-Tuesday  --->  Mar. 19  __Incidents in the Life of a Slave Girl__ (chapters 21-30)   &    &  __[What Does a Polar Bear Do in a Jungle? How E-lit Expands the Habitat of Literature ](http://www.huffingtonpost.com/illya-szilak/e-literature_b_2251181.html)__
+Tuesday  --->  Mar. 19  __Incidents in the Life of a Slave Girl__ (Lecture and discussion)    &  __[What Does a Polar Bear Do in a Jungle? How E-lit Expands the Habitat of Literature ](http://www.huffingtonpost.com/illya-szilak/e-literature_b_2251181.html)__
 >
->Thursday  --->  Mar. 21   __Incidents in the Life of a Slave Girl__ (chapters 31-end)
+>Thursday  --->  Mar. 21   __Incidents in the Life of a Slave Girl__ (Lecture and discussion)
 
->* __[Eighth Blogpost Due by end of normal class period today]()__
+>* __[Seventh Blogpost Due by end of normal class period today]()__
 
 ------------------------
 
@@ -215,7 +217,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Friday  --->  Mar. 29  --->  LAST DAY TO DROP CLASSES
 
->* __[Ninth Blogpost Due by end of normal class period today]()__
+>* __[Eighth Blog post due this week]()__
 
 ------------------------
 
@@ -225,7 +227,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  Apr. 4  __Why We Can't Wait__
 
->* __[Tenth Blogpost Due by end of normal class period today]()__
+>* __[NO Blog Post Due this week]()__
 
 ------------------------
 
@@ -235,7 +237,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  Apr. 11  __Why We Can't Wait__
 
->* __[Eleventh Blogpost Due by end of normal class period today]()__
+>* __[Ninth Blog post Due by end of normal class period today]()__
 
 -------------------------
 
@@ -245,7 +247,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  Apr. 18  __Kindred__
 
->* __[ Twelfth Blogpost Due by end of normal class period today]()__
+>* __[ Tenth Blog post Due by end of normal class period today]()__
 
 ------------------------
 
@@ -271,7 +273,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 
 ------------------------
 
-##Final Exam 	
+##Final Exam   
 
 * SECTION 1 --> Thursday, May 9th  (8:00-10:30am)
 * SECTION 2 --> Tuesday, May 7th (11:00-1:30pm)
@@ -279,6 +281,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 ------------------
 
 ------------------
+
 
 
 ###Additional Readings:

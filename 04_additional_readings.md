@@ -4,6 +4,10 @@ The following list is a "recommended readings" list that I hope you take the tim
 
 >###Useful Links
 
+>[TWINE: Tool for Creating Interactive Fiction](http://www.gimcrackd.com/etc/src/)
+>
+>[How to Make Games with TWINE](http://www.auntiepixelante.com/twine/)
+>
 >[Electronic Literature Organization](http://eliterature.org/about/)
 >
 >[Wordpress.com](http://en.wordpress.com/features/)

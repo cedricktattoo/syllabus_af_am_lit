@@ -6,6 +6,8 @@
 >
 >Thursday  --->  Mar. 7     Organizing for Born Digital Assignment & __[The Death of the Novel: How E-Lit Revolutionizes Fiction ](http://www.huffingtonpost.com/illya-szilak/the-death-of-the-novel-ho_b_2080881.html?utm_hp_ref=tw)__
 >
+> EXAMPLE of a Born Digital Project from a previous semester: 
+>[iPad Version](https://dl.dropbox.com/u/16071837/Poems%20on%20Various%20Subjects%20%28Beta%29.ibooks) & [PDF Version](https://dl.dropbox.com/u/16071837/Poems%20on%20Various%20Subjects%20%28beta%29.pdf)
 
 >* __[NO blog post due this week]()__
 

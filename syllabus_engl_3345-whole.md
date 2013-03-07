@@ -328,8 +328,10 @@ The following list is a "recommended readings" list that I hope you take the tim
 >###Interesting Links
 
 
->[My Digital Tutorials Page](http://cedrickmay.site40.net/) -- Use this to learn the basics of building a webpage
->
+>>*[My Digital Tutorials Page](http://cedrickmay.site40.net/) -- Use this to learn the basics of building a webpage
+>>
+>>*[HTML Tutorial](http://www.w3schools.com/html/default.asp) --Use this website to learn more about basic HTML
+>>
 >[Calibre eBook Reader & Tool](http://calibre-ebook.com/) -- Use this to learn how to make eBooks
 >
 >[Sigil eBook Editor](http://code.google.com/p/sigil/) -- Use this to learn how to make eBooks

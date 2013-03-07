@@ -4,9 +4,22 @@ The following list is a "recommended readings" list that I hope you take the tim
 
 >###Useful Links
 
->[TWINE: Tool for Creating Interactive Fiction](http://www.gimcrackd.com/etc/src/)
+>>For Making Interactive Content/Website/Game/ etc:
 >
->[How to Make Games with TWINE](http://www.auntiepixelante.com/twine/)
+>>*[TWINE: Tool for Creating Interactive Fiction](http://www.gimcrackd.com/etc/src/)
+>>
+>>*[How to Make Games with TWINE](http://www.auntiepixelante.com/twine/)
+>
+>
+>>For Building Timelines:
+>
+>>*[TimelineJS](http://timeline.verite.co/)
+>>
+>>>>[How To Use Timelines and TimelineJS](http://www.seomoz.org/ugc/using-timelines-to-create-great-content-and-build-links)
+>>
+>>*[TimelineSetter](http://propublica.github.com/timeline-setter/)
+>>
+>
 >
 >[Electronic Literature Organization](http://eliterature.org/about/)
 >
@@ -29,11 +42,11 @@ The following list is a "recommended readings" list that I hope you take the tim
 >###Interesting Links
 
 
->[My Digital Tutorials Page](http://cedrickmay.site40.net/)
+>[My Digital Tutorials Page](http://cedrickmay.site40.net/) -- Use this to learn the basics of building a webpage
 >
->[Calibre eBook Reader & Tool](http://calibre-ebook.com/)
+>[Calibre eBook Reader & Tool](http://calibre-ebook.com/) -- Use this to learn how to make eBooks
 >
->[Sigil eBook Editor](http://code.google.com/p/sigil/)
+>[Sigil eBook Editor](http://code.google.com/p/sigil/) -- Use this to learn how to make eBooks
 >
 >[Margaret Atwood Article](http://www.guardian.co.uk/books/2012/jul/06/margaret-atwood-wattpad-online-writing)
 >

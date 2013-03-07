@@ -4,7 +4,7 @@ The following list is a "recommended readings" list that I hope you take the tim
 
 >###Useful Links
 
->>For Making Interactive Content/Website/Game/ etc:
+>>For Making Interactive Content/Websites/Games/ etc:
 >
 >>*[TWINE: Tool for Creating Interactive Fiction](http://www.gimcrackd.com/etc/src/)
 >>

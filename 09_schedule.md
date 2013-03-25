@@ -19,7 +19,7 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 >
 >Thursday  --->  Jan. 24 __Jupiter Hammon's "An Evening's Improvement"__ 
 >
->* __[First Blogpost Due before start of class today]()__
+>* __[First Official Blogpost Due before start of class today]()__
 
 ------------------------
 
@@ -28,8 +28,7 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 >Tuesday  --->  Jan. 29  __*Poems on Various Subjects, Religious and Moral*__ (The first 10 poems) &  __[Text: A Massively Addressable Object](http://winedarksea.org/?p=926%29)__
 >
 >Thursday  --->  Jan. 31  __*Poems on Various Subjects, Religious and Moral*__ (The second 10 poems)
-
->* __[Second Blogpost Due before start of class today]()__
+>
 
 ------------------------
 
@@ -39,7 +38,7 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 >
 >Thursday  --->  Feb. 7  --->  No Class
 
->* __[Third Blogpost Due by end of normal class period today]()__
+>* __[Second Blogpost Due by end of normal class period today]()__
 
 ------------------------
 
@@ -50,7 +49,7 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 
 >
 >Thursday  --->  Feb. 14  Lecture on Venture Smith & __[Video in the House of the Word: How e-Lit Intersects With Cinema](http://www.huffingtonpost.com/illya-szilak/mark-amerika-art-film-literature_b_2147288.html)__ 
-> * __[Fourth Blogpost  on Venture Smith Due by noon on Friday, Feb. 15]()__
+> * __[Third Blogpost  on Venture Smith Due by noon on Friday, Feb. 15]()__
 
 ------------------------
 
@@ -60,10 +59,10 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 >Tuesday  --->  Feb. 19 My Bondage and My Freedom, chapters 1-6) &   &  __[Everything wants to be digital](http://booktwo.org/notebook/everything-wants-to-be-digital/?utm_medium=referral)__
 >
 >Thursday  --->  Feb. 21  --->  *No Class*  (Continue Reading MyBondage and My Freedom, chapters 7-12 )
-
->* __[Fifth Blogpost Due by end of normal class period today]()__
+>
 >
 >__Note: I will be in New Haven, Connecticut from Feb. 20-27. I will be available via email and will also be grading and commenting on blog posts during my time away.  So make sure you do your postings on time, and the blog post, plus comments, will be counted toward your class participation.__
+
 
 ------------------------
 
@@ -74,6 +73,6 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 >
 >Thursday  --->  Feb. 28 My Bondage and My Freedom, (chapters 19-25)
 >
->* __[Sixth Blogpost Due by end of normal class period today]()__
-
+>* __[Fourth Blogpost Due by end of normal class period today]()__
+>
 ------------------------

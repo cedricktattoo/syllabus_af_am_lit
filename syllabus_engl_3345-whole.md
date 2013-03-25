@@ -175,6 +175,7 @@ __["The Extent of Our Decline"](http://www.dzancbooks.org/the-collagist/2011/1/1
 >
 ------------------------
 
+------------------------
 
 >__Week 8__ 
 >
@@ -204,7 +205,7 @@ Tuesday  --->  Mar. 19  __Incidents in the Life of a Slave Girl__ (Lecture and d
 >
 >Thursday  --->  Mar. 21   __Incidents in the Life of a Slave Girl__ (Lecture and discussion)
 
->* __[Seventh Blogpost Due by end of normal class period today]()__
+>* __[Fifth Blogpost Due by end of normal class period today]()__
 
 ------------------------
 
@@ -217,7 +218,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Friday  --->  Mar. 29  --->  LAST DAY TO DROP CLASSES
 
->* __[Eighth Blog post due this week]()__
+>* __[Sixth Blog post due this week]()__
 
 ------------------------
 
@@ -237,7 +238,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  Apr. 11  __Why We Can't Wait__
 
->* __[Ninth Blog post Due by end of normal class period today]()__
+>* __[Seventh Blog post Due this week]()__
 
 -------------------------
 
@@ -247,7 +248,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  Apr. 18  __Kindred__
 
->* __[ Tenth Blog post Due by end of normal class period today]()__
+>* __[ Eighth Blog post Due this week]()__
 
 ------------------------
 
@@ -267,7 +268,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  May 2  ---> *__Presentations of Born Digital Assignment__
 
->* __[Thirteenth and Final Blogpost Due by end of normal class period today]()__
+>* __[Ninth and Final Blogpost Due this week]()__
 
 ------------------------
 

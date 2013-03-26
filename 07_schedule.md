@@ -28,28 +28,28 @@ Tuesday  --->  Mar. 19  __Incidents in the Life of a Slave Girl__ (Lecture and d
 >
 >Thursday  --->  Mar. 21   __Incidents in the Life of a Slave Girl__ (Lecture and discussion)
 
->* __[Fifth Blogpost Due by end of normal class period today]()__
+>* __[Fifth Blogpost Due Friday by Noon]()__
 
 ------------------------
 
 >__Week 11__
 >
->Tuesday  --->  Mar. 26  __The Souls of Black Folk__  &  __[A History of Medieval Christian Preaching
-as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libraries/houghton/collections/early_manuscripts/preaching/index.cfm)__
+>Tuesday  --->  Mar. 26  Film: __Glory__ (1989)
 >
->Thursday  --->  Mar. 28  __The Souls of Black Folk__
+>Thursday  --->  Mar. 28  Film : __Glory__ (1989)
 >
 >Friday  --->  Mar. 29  --->  LAST DAY TO DROP CLASSES
 
->* __[Sixth Blog post due this week]()__
+>* __[Sixth Blog post due Friday by Noon]()__
 
 ------------------------
 
 >__Week 12__
 >
->Tuesday  --->  Apr. 2  __Why We Can't Wait__  &  __[Stanley and Me](http://stephenramsay.us/text/2012/11/08/stanley-and-me.html)__
+>Tuesday  --->  Apr. 2  __The Souls of Black Folk__  &  __[A History of Medieval Christian Preaching
+as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libraries/houghton/collections/early_manuscripts/preaching/index.cfm)__
 >
->Thursday  --->  Apr. 4  __Why We Can't Wait__
+>Thursday  --->  Apr. 4  __The Souls of Black Folk__
 
 >* __[NO Blog Post Due this week]()__
 
@@ -61,7 +61,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  Apr. 11  __Why We Can't Wait__
 
->* __[Seventh Blog post Due by end of normal class period today]()__
+>* __[Seventh Blog post Due Friday by Noon]()__
 
 -------------------------
 
@@ -71,7 +71,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  Apr. 18  __Kindred__
 
->* __[ Eighth Blog post Due by end of normal class period today]()__
+>* __[ Eighth Blog post Due Friday by Noon]()__
 
 ------------------------
 
@@ -91,7 +91,7 @@ as Seen in the Manuscripts of Houghton Library](http://www.hcl.harvard.edu/libra
 >
 >Thursday  --->  May 2  ---> *__Presentations of Born Digital Assignment__
 
->* __[Ninth and Final Blogpost Due by end of normal class period today]()__
+>* __[Ninth and Final Blogpost Due Friday by Noon]()__
 
 ------------------------
 
